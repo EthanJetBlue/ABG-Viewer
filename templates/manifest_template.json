@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "generatedAt": "2026-01-31T00:00:00Z",
-  "baseURL": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/",
+  "baseURL": "https://ethanjetblue.github.io/ABG-Viewer/",
   "airports": [
     {
       "iata": "JFK",
